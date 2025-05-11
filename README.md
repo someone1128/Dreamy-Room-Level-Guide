@@ -65,4 +65,15 @@ This project is base example code for a fan-made game guide website focusing on 
 
 ---
 
+## Related Games
+
+We recommend these equally engaging puzzle games:
+
+- [Brainy Prankster](https://brainyprankster.com/en) - Creative brain teasers and challenges
+- [Hole People](https://holepeople.org/en) - Unique hole-filling puzzle game
+- [Escape Time](https://escapetime.online/en) - Exciting escape room adventures
+- [Wood Away](https://woodaway.org/) - Wood Away game guide website
+
+---
+
 Thanks again for your interest in the Dreamy Room Level Guide Site! Remember to visit [https://dreamyroom.net/](https://dreamyroom.net/) for the most comprehensive and up-to-date guides for every **Dreamy Room Level**!
